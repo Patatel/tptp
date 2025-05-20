@@ -1,0 +1,6 @@
+client_id       = "444608a5-3b31-437a-af92-e2cf0dd70df0"
+client_secret   = "Yyd8Q~UFfUqZWicswjFHrc_3F7lszbytu7~AZaZ0"
+tenant_id       = "38e72bba-3c22-4382-9323-ac1612931297"
+subscription_id = "ffd8ac36-dbf0-4929-8a08-6b33c3ee5da3"
+location        = "West Europe"
+ssh_public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC9Pa6tAswXBt+3/HXHqsQ7i1p2yXsEm3UUUpWpBVBQtJqiaW/+7ThyIjzovOaHmVls/IKQI9WjynjdaYiZChhCHCwI5lXKHUPghdADo9ySRtu6Xlf6HhgAcP01vbFfrESgH86PW5EqbQ95ii2yx6nWATBStKtrZotIUPQjnt6Cr1hCjzWeyqTr9r5Fpwco6a3tcIc/ETHk6kLUMm53h5WCZfC50nJzP+5XA8EINsy37KSgrciBi+BEoup35U3RKJlALVtR8C3SgB3OVnxI/kIzG4oHikiuhebJ8sAlQOJFyJhB5HAwjtcYWxF1CJz3d6pzyKs/eyQkf5pln/Z1MMkl lele@ROSIT-55912372"
